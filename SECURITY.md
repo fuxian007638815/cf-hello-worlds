@@ -16,3 +16,5 @@ When reporting, include the following details (as much as possible) to help us u
 - Impact of the issue, including potential exploitation by attackers
 
 Providing this information will facilitate a quicker triage of your report.
+
+<!-- Auto-update: 2025-10-19T10:52:52.515463 -->
